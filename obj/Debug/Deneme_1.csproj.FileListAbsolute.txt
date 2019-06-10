@@ -1,0 +1,7 @@
+C:\Users\bbayrakli\Desktop\My_Repo\Deneme_1\obj\Debug\Deneme_1.csprojAssemblyReference.cache
+C:\Users\bbayrakli\Desktop\My_Repo\Deneme_1\obj\Debug\Deneme_1.csproj.CoreCompileInputs.cache
+C:\Users\bbayrakli\Desktop\My_Repo\Deneme_1\bin\Debug\Deneme_1.exe.config
+C:\Users\bbayrakli\Desktop\My_Repo\Deneme_1\bin\Debug\Deneme_1.exe
+C:\Users\bbayrakli\Desktop\My_Repo\Deneme_1\bin\Debug\Deneme_1.pdb
+C:\Users\bbayrakli\Desktop\My_Repo\Deneme_1\obj\Debug\Deneme_1.exe
+C:\Users\bbayrakli\Desktop\My_Repo\Deneme_1\obj\Debug\Deneme_1.pdb
